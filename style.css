@@ -1,0 +1,85 @@
+
+body {
+  margin: 0px;
+  background: white;
+  color: rgb(20, 20, 20);
+  font-family: Niramit, sans-serif;
+	font-size: 18px;
+}
+.banner{
+  text-align: center; 
+  color: white;
+	padding: 150px 0px;
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url("https://kid101.com/wp-content/uploads/2017/06/parents-baby-2.jpg");
+  background-size: cover;
+	background-position: center;
+}
+.banner h1 {
+  font-size: 50px;
+}
+.banner p {
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+  margin-bottom: 40px;
+}
+.button {
+  color: white;
+  background:#004866;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  border-radius: 4px;
+  padding: 15px 20px;
+}
+.button:hover {
+  background: #8fd3ef;
+  color: white;
+  text-decoration: none;
+}
+.card_white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
+  height:350px;
+}
+.card_white img {
+  margin-bottom: 20px;
+}
+.footer {
+  background-color: #004866;
+  padding: 24px;
+  color: white;
+}
+.footer a {
+  color: white;
+  font-size: 32px;
+}
+.listing {
+  list-style: none;
+  padding-left: 0px;
+}
+.listing li {
+  display: inline;
+  padding: 0px 8px;
+}
+
+h1, h2, h3 {
+  font-family: Mali, cursive;
+  font-weight: bold;
+}
+h1 {
+	font-size: 40px;
+}
+h2 {
+  font-size: 24px;
+  color: #004866;
+}
+a {
+  color: #004866;
+  text-decoration: none;
+}
+a:hover {
+  color: #8fd3ef;
+}
